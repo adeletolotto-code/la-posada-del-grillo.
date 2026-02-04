@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>EXO – Insect Fine Dining</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #1e2d24;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h2 {
+            color: #1e2d24;
+        }
+        .menu-item {
+            background: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #1e2d24;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>EXO – Insect Fine Dining</h1>
+    <p>Il futuro della cucina sostenibile</p>
+</header>
+
+<section>
+    <h2>🍽 Il nostro ristorante</h2>
+    <p>
+        EXO è un ristorante innovativo che propone piatti gourmet a base di insetti commestibili.
+        Crediamo in una cucina sostenibile, nutriente e rispettosa dell’ambiente.
+    </p>
+</section>
+
+<section>
+    <h2>📜 Menu</h2>
+
+    <div class="menu-item">
+        <h3>Risotto ai grilli croccanti</h3>
+        <p>Risotto cremoso con grilli tostati e parmigiano.</p>
+    </div>
+
+    <div class="menu-item">
+        <h3>Burger di larve speziate</h3>
+        <p>Burger proteico servito con pane integrale e verdure bio.</p>
+    </div>
+
+    <div class="menu-item">
+        <h3>Brownie al cioccolato e farina di insetti</h3>
+        <p>Dolce sostenibile e ricco di proteine.</p>
+    </div>
+</section>
+
+<section>
+    <h2>👨‍🍳 Chi siamo</h2>
+    <p>
+        Siamo un team di giovani chef e ricercatori che vogliono rivoluzionare il modo di mangiare,
+        unendo gusto, scienza e rispetto per il pianeta.
+    </p>
+</section>
+
+<section>
+    <h2>📍 Dove siamo</h2>
+    <p>
+        Ci trovi a <strong>Milano, zona Porta Nuova</strong>, uno dei quartieri più moderni e innovativi della città.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 EXO – Insect Fine Dining</p>
+</footer>
+
+</body>
+</html>
